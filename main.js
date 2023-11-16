@@ -30,8 +30,8 @@
 //      Для решения этой задачи вам нужны будут следующие методы: Object.keys() или Object.entries
 
 // const something = {
-//     dima: "Техподдержка",
-//     Alim: "student"
+//     Dima: "Техподдержка",
+//     Alim: "nestudent"
 // }
 // function objectToArr (Obj) {
 //            return Object.entries(Obj)
@@ -53,8 +53,8 @@
 // Напишите функцию, которая проверяет, является ли элемент именно простым объектом, а не массивом, null и т.п.
 //  Тут вам пригодится метод Array.isArray()
 // const lol = {
-//     dima: "neТехподдержка",
-//     Alim: "student"
+//     Dima: "Техподдержка",
+//     Alim: "nestudent"
 // }
 // const numbers = [1, 2, 3];
 // const noll = null;
